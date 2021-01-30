@@ -1,6 +1,6 @@
 # Flutter Spotify Redesign
 
-## [Watch it on YouTube]()
+## [Watch it on YouTube](https://youtu.be/HwDDF9e_vJQ)
 
 Spotify Redesign.
 
